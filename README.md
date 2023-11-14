@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.jpeg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.jpeg">
+  <img alt="Theme sensitive banner" src="assets/dark.jpeg" width="100%">
+</picture>
+
 ### Hi there 👋
 
 <!--
