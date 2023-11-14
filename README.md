@@ -6,7 +6,14 @@
 
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovillios&layout=compact)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jovillios&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jovillios&layout=compact">
+  <img alt="Theme sensitive banner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovillios&layout=compact" width="100%">
+</picture>
+
+![Top Langs]()
 
 <!--
 **Jovillios/Jovillios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
