@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01A2C3&random=false&width=435&lines=Hello+there%2C+I'm+Jules+Decaestecker)](https://git.io/typing-svg)
 
 ###
 
