@@ -54,9 +54,9 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false&order=2">
-    <source media="(prefers-color-scheme: light)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2">
-     <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false&order=2" width=40%>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark_dimmed&hide_border=false&order=2">
+    <source media="(prefers-color-scheme: light)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=swift&hide_border=false&order=2">
+     <img alt="Theme sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark_dimmed&hide_border=false&order=2" width=40%>
   </picture>
 </div>
 
