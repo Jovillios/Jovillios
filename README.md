@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" width="180" src="./assets/github.gif" alt="Animated GitHub logo" />
+  <!-- Enhanced Animated Logo -->
+  <img height="150" width="180" src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Animated AI Logo" />
 </div>
 
 ###
@@ -18,8 +19,6 @@
 
 <h3 align="left">👋 About Me</h3>
 
-###
-
 <p align="left">
 I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) program at ENS Paris-Saclay.<br><br>
 - 📚 Passionate about advancing AI and Machine Learning<br>
@@ -30,8 +29,6 @@ I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) pro
 ###
 
 <h3 align="left">🛠️ Languages and Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -55,8 +52,6 @@ I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) pro
 
 <h3 align="left">🔥 My Stats</h3>
 
-###
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark_dimmed&hide_border=false&order=2&hide=jupyter%20notebook">
@@ -68,8 +63,6 @@ I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) pro
 ###
 
 <h3 align="left">✨ Let's Connect!</h3>
-
-###
 
 <p align="left">
 Feel free to reach out for collaboration or to discuss exciting opportunities:
