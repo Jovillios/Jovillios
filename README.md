@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Enhanced Animated Logo -->
-  <img height="150" width="180" src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Animated AI Logo" />
+  <img height="150" width="180" src="https://pemagrg.medium.com/machine-learning-4a6e54ee68b7" alt="Animated AI Logo" />
 </div>
 
 ###
