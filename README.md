@@ -59,15 +59,3 @@ I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) pro
     <img alt="Theme-sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark_dimmed&hide_border=false&order=2&hide=jupyter%20notebook" width="40%" />
   </picture>
 </div>
-
-###
-
-<h3 align="left">✨ Let's Connect!</h3>
-
-<p align="left">
-Feel free to reach out for collaboration or to discuss exciting opportunities:
-<ul>
-  <li>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-  <li>🌐 [Portfolio](https://your-portfolio-link.com)</li>
-</ul>
-</p>
