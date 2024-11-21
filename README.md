@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Enhanced Animated Logo -->
-  <img height="150" width="180" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif" alt="Animated AI Logo" />
+  <img height="150" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif" alt="Animated AI Logo" />
 </div>
 
 ###
