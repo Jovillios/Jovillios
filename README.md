@@ -1,56 +1,62 @@
-<div align="center">
-  <!-- Enhanced Animated Logo -->
-  <img height="500" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif" alt="Animated AI Logo" />
-</div>
+<h1 align="center">Hi there, I'm Jules 👋</h1>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jules-decaestecker/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-</div>
-
-###
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hello+there%2C+I'm+Jules+Decaestecker+!;Check+my+repos)](https://git.io/typing-svg)
-
-###
-
-<h3 align="left">👋 About Me</h3>
-
-<p align="left">
-I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) program at ENS Paris-Saclay.<br><br>
-- 📚 Passionate about advancing AI and Machine Learning<br>
-- 💼 Focused on research in Large Language Models, optimization, and quantum computing<br>
-- ⚡ Always excited to tackle challenging projects that push boundaries
+<p align="center">
+  🎓 MVA Master's Student @ <strong>ENS Paris-Saclay</strong><br>
+  💻 Machine Learning · Deep Learning · Computer Vision · LLMs<br>
+  🔍 Looking for a first job in AI / ML
 </p>
 
-###
+---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-</div>
+🎓 I'm currently pursuing a Master’s degree in **Mathematics, Vision, and Learning (MVA)** at **ENS Paris-Saclay**, one of the top AI programs in Europe.
 
-###
+🔬 I’m passionate about:
+- 🧠 **Large Language Models**, Transformers, Mamba
+- 🖼️ **Computer Vision** and Embedded AI
+- ⚙️ **Optimization** and Distributed Training
+- 📊 Building **robust ML systems** that scale
 
-<h3 align="left">🔥 My Stats</h3>
+🧪 Actively looking for **full-time opportunities** in applied research or engineering roles.
+
+---
+
+## 💼 Experience
+
+- 🛰️ **Research Intern @ Thales**  
+  Distributed training and segmentation using PyTorch & mmsegmentation  
+- 🤖 **LLM Intern @ Polynom**  
+  Fine-tuning open LLMs, RAG systems, and NLP pipelines  
+- 📄 **Author of [FICUS](https://imt-atlantique.hal.science/hal-04645169/)**  
+  Training-free few-shot classification via unsupervised segmentation
+
+---
+
+## 📂 Featured Projects
+
+| ⭐ Project | 🚀 Description | 🏷️ Tags |
+|----------|----------------|---------|
+| [FICUS](https://github.com/jovillios/ficus) | Unsupervised segmentation for few-shot classification | `Computer Vision`, `Few-Shot`, `Research` |
+| [LongGPT](https://github.com/jovillios/longGPT) | Implementation of LongNet to scale sequence length >1B tokens on top of nanoGPT | `LLM`, `Long Context`, `Transformer` |
+| [DL_2023_CLAP](https://github.com/jovillios/DL_2023_CLAP) | Experiments on Contrastive Language-Audio Pretraining (CLAP) for the DL course at IMT Atlantique | `Multimodal`, `Contrastive Learning`, `Coursework` |
+
+> 🛠 Explore more in the [Repositories tab »](https://github.com/jovillios?tab=repositories)
+
+---
+
+## 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![W&B](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat-square)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <picture>
@@ -59,3 +65,15 @@ I'm Jules, a Master's student in the Mathematics, Vision, and Learning (MVA) pro
     <img alt="Theme-sensitive GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jovillios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark_dimmed&hide_border=false&order=2&hide=jupyter%20notebook" width="40%" />
   </picture>
 </div>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jules-decaestecker/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:decaestecker.jules@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://scholar.google.com/citations?user=..."><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+> _"The task is, not so much to see what no one has seen yet; but to think what nobody has thought yet, about what everybody sees." - Arthur Schopenhauer_
