@@ -37,6 +37,7 @@
 
 | ⭐ Project | 🚀 Description | 🏷️ Tags |
 |----------|----------------|---------|
+| [Yubu Code](https://github.com/valfvo/hackathon-yubu-code) | AgentOps Replay System - AI agent transparency, compliance & debugging | `AI Agents`, `LangChain`, `FastAPI`, `Next.js`, `Compliance` |
 | [FICUS](https://github.com/jovillios/ficus) | Unsupervised segmentation for few-shot classification | `Computer Vision`, `Few-Shot`, `Research` |
 | [LongGPT](https://github.com/jovillios/longGPT) | Implementation of LongNet to scale sequence length >1B tokens on top of nanoGPT | `LLM`, `Long Context`, `Transformer` |
 | [DL_2023_CLAP](https://github.com/jovillios/DL_2023_CLAP) | Experiments on Contrastive Language-Audio Pretraining (CLAP) for the DL course at IMT Atlantique | `Multimodal`, `Contrastive Learning`, `Coursework` |
