@@ -3,22 +3,19 @@
 <p align="center">
   🎓 MVA Master's Student @ <strong>ENS Paris-Saclay</strong><br>
   💻 Machine Learning · Deep Learning · Computer Vision · LLMs<br>
-  🔍 Looking for a first job in AI / ML
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm currently pursuing a Master’s degree in **Mathematics, Vision, and Learning (MVA)** at **ENS Paris-Saclay**, one of the top AI programs in Europe.
+🎓 Graduated from a Master’s degree in **Mathematics, Vision, and Learning (MVA)** at **ENS Paris-Saclay**, one of the top AI programs in Europe.
 
 🔬 I’m passionate about:
 - 🧠 **Large Language Models**, Transformers, Mamba
 - 🖼️ **Computer Vision** and Embedded AI
 - ⚙️ **Optimization** and Distributed Training
 - 📊 Building **robust ML systems** that scale
-
-🧪 Actively looking for **full-time opportunities** in applied research or engineering roles.
 
 ---
 
