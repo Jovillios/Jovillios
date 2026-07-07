@@ -1,32 +1,46 @@
 <h1 align="center">Hi there, I'm Jules 👋</h1>
 
 <p align="center">
-  🎓 MVA Master's Student @ <strong>ENS Paris-Saclay</strong><br>
-  💻 Machine Learning · Deep Learning · Computer Vision · LLMs<br>
+  🚀 <strong>Forward Deployed AI Engineer @ BCG X</strong><br>
+  🎓 MVA Master's Graduate @ <strong>ENS Paris-Saclay</strong> · Ingénieur @ <strong>IMT Atlantique</strong><br>
+  💻 Agentic AI · Machine Learning · Deep Learning · Computer Vision · LLMs<br>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Graduated from a Master’s degree in **Mathematics, Vision, and Learning (MVA)** at **ENS Paris-Saclay**, one of the top AI programs in Europe.
+🚀 Forward Deployed AI Engineer at **BCG X**, helping organizations design, build, and deploy high-impact AI solutions — from LLM orchestration and agentic pipelines to robust backends and human-in-the-loop interfaces. I work directly with clients to frame the right problem, then build the right solution, from prototype to production.
 
-🔬 I’m passionate about:
+🎓 Graduated from a Master's degree in **Mathematics, Vision, and Learning (MVA)** at **ENS Paris-Saclay**, one of the top AI programs in Europe, and hold an engineering degree from **IMT Atlantique**.
+
+🔬 I'm particularly drawn to complex, frontier problems:
+- 🤖 **Agentic AI** and multi-agent orchestration
 - 🧠 **Large Language Models**, Transformers, Mamba
 - 🖼️ **Computer Vision** and Embedded AI
-- ⚙️ **Optimization** and Distributed Training
+- ⚙️ **Distributed Training** and Optimization
 - 📊 Building **robust ML systems** that scale
+
+Published at **EUSIPCO 2024**, with a submission to **CVPR 2026**. Curious by nature, pragmatic by conviction.
 
 ---
 
 ## 💼 Experience
 
-- 🛰️ **Research Intern @ Thales**  
-  Distributed training and segmentation using PyTorch & mmsegmentation  
-- 🤖 **LLM Intern @ Polynom**  
-  Fine-tuning open LLMs, RAG systems, and NLP pipelines  
-- 📄 **Author of [FICUS](https://imt-atlantique.hal.science/hal-04645169/)**  
-  Training-free few-shot classification via unsupervised segmentation
+- 🚀 **Forward Deployed AI Engineer @ BCG X** *(2026 - Present)*
+  Designing and deploying agentic AI platforms for enterprise clients — LLM orchestration, agentic pipelines, and production-grade human-in-the-loop systems.
+
+- 🛰️ **AI Research Intern @ Thales** *(2025)*
+  Implemented Mamba-based architectures for high-resolution semantic segmentation; comparative study against Transformers (ViT, Swin); optimized for embedded inference on NVIDIA Orin AGX with TensorRT acceleration.
+
+- 🤖 **Data Scientist LLM @ Polynom** *(2024)*
+  Fine-tuned open LLMs for production use cases (LoRA, PEFT); built and optimized RAG pipelines (embeddings, retriever-ranker architecture, end-to-end evaluation).
+
+- 🔬 **Research Project @ IMT Atlantique (BRAIn team)** *(2023-2024)*
+  Authored a research paper on few-shot image classification via foundation-model-based unsupervised segmentation.
+
+- 🖥️ **System Administrator @ ResEl** *(2021-2024)*
+  Managed the student-run ISP network across IMT Atlantique campuses (700+ rooms); built VM management tooling for datacenter energy optimization.
 
 ---
 
@@ -45,12 +59,20 @@
 
 ## 🧰 Tech Toolbox
 
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-6E56CF?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![W&B](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat-square)
+
+---
+
+## 🌐 Languages
+
+🇫🇷 French (Native) · 🇬🇧 English (Full Professional) · 🇪🇸 Spanish (Limited Working) · 🇯🇵 Japanese (Elementary)
 
 ---
 
